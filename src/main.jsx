@@ -7,7 +7,7 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 import 'bootstrap/dist/js/bootstrap.bundle.min.js'
 
 // 2. Luego CSS (para que las reglas como .btn-primary ganen a las de Bootstrap)
-import 'assets/css/estilos.css' 
+import './assets/css/estilos.css' 
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
